@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbarup{
+    font-size: 20px;
+    color: white;
+    position: fixed;
+   z-index: 1;
+   width: 100%;
+}
+.carousel{
+    position: absolute;
+    
+}
+#login{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    border: solid white 1px;
+    box-shadow: 2px 2px 10px white;
+}
+#login:hover{
+    margin-left: 10px;
+    background-color: black;
+    color: rgb(255, 0, 0);
+    border: solid white 1px;
+    box-shadow: 2px 2px 10px rgb(155, 202, 255);
+}
+h3{
+    background-color: brown;
+    width: 100%;
+}
+marquee{
+    color: white;
+}
+.box{
+    display: flex;
+    height: 320px;
+}
+.first{
+    padding: 5px;
+    margin: 5px;
+    padding-top: 40px;
+}
+.secound{
+    margin: 5px;
+    padding: 5px;
+    height: 300px;
+    overflow-y: scroll;
+}
+#pimg{
+   border: solid black 2px;
+}
+.carousel-inner{
+    padding-top: 50px;
+}
+.quotation{
+    background-color: rgb(5, 5, 115);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.anouncement{
+    height: 300px;
+    overflow-y : scroll;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.anouncement h2{
+    background-color: brown;
+    color: white;
+} 
+footer{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+
+
+thead{
+background-color: brown;
+color: white;
+}
